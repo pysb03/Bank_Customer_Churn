@@ -61,3 +61,18 @@ The analysis is presented through **Excel Dashboard**, covering:
 Dataset from **Maven Analytics Data Playground**:
 
 https://mavenanalytics.io/data-playground/bank-customer-churn
+
+
+---------------------------------------------------------------
+
+# Dashboard Preview
+
+<img width="1248" height="738" alt="Overview" src="https://github.com/user-attachments/assets/1b84d823-18f3-4f3e-8074-ce2499f6304a" />
+
+<img width="1242" height="738" alt="Geography" src="https://github.com/user-attachments/assets/3943409a-c9e8-49d3-a693-1763dc25655b" />
+
+<img width="1242" height="738" alt="Segment (Meaning)" src="https://github.com/user-attachments/assets/8172c6bb-31a8-4ebc-9c08-667021cce7e8" />
+
+<img width="1241" height="739" alt="Segment" src="https://github.com/user-attachments/assets/ea8865ec-2d1f-4a1e-986b-63495a049894" />
+
+
